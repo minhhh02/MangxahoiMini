@@ -1,0 +1,11 @@
+{
+  "name": "mangxahoimini-nodejs",
+  "version": "1.0.0",
+  "description": "Mot mang xa hoi nho de lam NodeJs",
+  "main": "src/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vu Duc Minh",
+  "license": "ISC"
+}
